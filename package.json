@@ -1,6 +1,6 @@
 {
-  "name": "homebridge-xiaomi-fan",
-  "version": "1.5.9",
+  "name": "homebridge-xiaomi-fan-js",
+  "version": "1.5.9.1",
   "description": "Homebridge plugin for Xiaomi Smartmi Fans",
   "main": "index.js",
   "engines": {
@@ -18,11 +18,7 @@
     "dmaker",
     "homekit"
   ],
-  "author": "merdok",
-  "funding": {
-    "type" : "paypal",
-    "url" : "https://paypal.me/merdokdev"
-  },
+  "author": "jiasen",
   "license": "MIT",
   "dependencies": {
     "miio": "^0.15.6",

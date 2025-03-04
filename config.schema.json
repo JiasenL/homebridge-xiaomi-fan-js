@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "xiaomifan",
+  "pluginAlias": "xiaomifanjs",
   "pluginType": "platform",
   "singular": true,
   "headerDisplay": "Homebridge plugin for Xiaomi Fans",
