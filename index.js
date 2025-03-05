@@ -7,7 +7,7 @@ let Service, Characteristic, Homebridge, Accessory;
 
 const PLUGIN_NAME = 'homebridge-xiaomi-fan-js';
 const PLATFORM_NAME = 'xiaomifanjs';
-const PLUGIN_VERSION = '1.5.9.1';
+const PLUGIN_VERSION = '1.5.9.2';
 
 // General constants
 const BATTERY_LOW_THRESHOLD = 20;
